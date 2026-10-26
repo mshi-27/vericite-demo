@@ -36,10 +36,6 @@ More recently, the Ninth Circuit sanctioned attorneys who filed briefs containin
 
 VeriCite is a lightweight first-pass check: it extracts cited cases and New York statutes from text, resolves them against public legal records, and flags references that cannot be resolved. It is designed to keep this verification step within a researcher’s normal browser workflow—not to replace legal research, attorney judgment, or professional citation checking.
 
-## My contribution
-
-In a four-person team, I built the verification pipeline integrating eyecite, CourtListener, and the NY Senate Open Legislation API, and developed the browser-extension workflow for highlighted and pasted text.
-
 ## Important limitations
 
 VeriCite is a research prototype. A resolved citation does not establish that the cited authority is current, controlling, accurately characterized, or appropriate for a particular legal question. It should not be treated as legal advice.
